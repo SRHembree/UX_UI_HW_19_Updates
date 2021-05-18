@@ -13,3 +13,7 @@
 .navbar-toggler {
     color: white;
 }
+.nav-item-dropdown {
+    color: white;
+    position: right;
+}
